@@ -1,2 +1,2 @@
 # vendor_xiaomi_fleur-firmware
-For Including Firmware on During Building 
+For Including Firmware During Building 
